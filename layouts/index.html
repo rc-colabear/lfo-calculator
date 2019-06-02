@@ -1,11 +1,12 @@
 {{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "description"}} {{ .Site.Description}}  {{end}}
 {{ define "header"}} {{ partial "header" .}} {{end}}
 {{ define "main"}}
 
 <div id="main">
   <div id="hero">
     <h1>{{.Title}}</h1>
-    <p>{{.Description}}</p>
+    <p>The Lifetime Financial Obligation (LFO) Calculator was built to help Washington State judges and justices adjudicate cases involving LFOs. The Calculator allows users to add all the charges as well as financial and legal conditions of the defendant to understand the impact of different sentencing options, including fines, community-service hours, probation, and more.</p>
   </div>
   <div id="action-buttons">
     <a class="button primary big" href="https://beta.lfocalculator.org" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Try the LFO Calculator</a> </p>
