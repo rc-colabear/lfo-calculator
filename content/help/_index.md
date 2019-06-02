@@ -4,7 +4,7 @@ title = "Help"
 description = "Help in using the Washington State LFO Calculator"
 +++
 
-Judge Linda Coburn recorded the definitive guides to understanding the ins and outs of the LFO Calculator. She should know; she built it.
+Judge Linda Coburn recorded the definitive guides to understanding the ins and outs of the LFO Calculator. She should know; she built it. And she's awesome.
 
 ### Courts of Limited Jurisdiction
 
