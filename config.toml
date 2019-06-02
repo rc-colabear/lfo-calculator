@@ -1,0 +1,23 @@
+baseURL = "https://www.lfocalculator.org"
+languageCode = "en-us"
+title = "Washington State LFO Calculator"
+description = "The Lifetime Financial Obligation (LFO) Calculator was built to help Washington State judges and justices adjudicate cases involving LFOs. The Calculator allows users to add all the charges as well as financial and legal conditions of the defendant to understand the impact of different sentencing options, including fines, community-service hours, probation, and more."
+Paginate = 4
+[Params]
+
+[[menu.main]]
+    name = "Help"
+    weight = -100
+    url = "/help/"
+[[menu.main]]
+    name = "About"
+    weight = -100
+    url = "/blog/"
+[[menu.main]]
+    name = "Faq"
+    weight = -100
+    url = "/faq/"
+[[menu.main]]
+    name = "LFO Calculator"
+    weight = -100
+    url = "https://beta.lfocalculator.org"
