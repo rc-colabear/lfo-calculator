@@ -10,7 +10,7 @@ Paginate = 4
     weight = -100
     url = "/help/"
 [[menu.main]]
-    name = "Faq"
+    name = "FAQ"
     weight = -100
     url = "/faq/"
 [[menu.main]]

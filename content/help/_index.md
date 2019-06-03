@@ -4,7 +4,7 @@ title = "Help"
 description = "Help in using the Washington State LFO Calculator"
 +++
 
-Judge Linda Coburn recorded the definitive guides to understanding the ins and outs of the LFO Calculator. She should know; she built it. And she's awesome.
+For a demonstration on how to use the calculator, select the video applicable to your level of court. To help judges’ at sentencing, defense attorneys can download the Declaration of Financial Status that can be found here to complete and submit for the Court’s consideration.
 
 ### Courts of Limited Jurisdiction
 
