@@ -4,6 +4,12 @@ title = "Help"
 description = "Help in using the Washington State LFO Calculator"
 +++
 
+## Download Declaration of Financial Status Form
+
+<a href="https://beta.lfocalculator.org/static/media/financial-status-declaration.26698d35.docx">Declaration of financial status
+
+## Using the LFO Calculator for different courts
+
 For a demonstration on how to use the calculator, select the video applicable to your level of court. To help judges’ at sentencing, defense attorneys can download the Declaration of Financial Status that can be found here to complete and submit for the Court’s consideration.
 
 ### Courts of Limited Jurisdiction
